@@ -21,5 +21,6 @@ public class HighwayStaticInfo {
 			    	.getFromXml(uri)
 			    
 		);
+
 	}
 }
